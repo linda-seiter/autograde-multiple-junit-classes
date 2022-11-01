@@ -8,7 +8,7 @@ Junit test classes
 - ReverseLowercaseFunctionTest.java
 
 Solution classes
--ConcatStringFunction.java
--InorderUpperCaseFunction.java
--ReverseLowercaseFunction.java
+- ConcatStringFunction.java
+- InorderUpperCaseFunction.java
+- ReverseLowercaseFunction.java
 
